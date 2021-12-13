@@ -75,5 +75,3 @@ H: 792 (<em>increased</em>)
   <a href="javascript:void(0);" onclick="var mastodon_instance=prompt('Mastodon Instance / Server Name?'); if(typeof mastodon_instance==='string' && mastodon_instance.length){this.href='https://'+mastodon_instance+'/share?text=I%27ve+completed+%22Sonar+Sweep%22+%2D+Day+1+%2D+Advent+of+Code+2021+%23AdventOfCode+https%3A%2F%2Fadventofcode%2Ecom%2F2021%2Fday%2F1'}else{return false;}" target="_blank">Mastodon</a
 ></span>]</span> this puzzle.</p>
 -->
-
-</main>
