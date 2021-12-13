@@ -22,6 +22,7 @@
 </ul>
 <p>Adjacent flashes can cause an octopus to flash on a step even if it begins that step with very little energy. Consider the middle octopus with <code>1</code> energy in this situation:</p>
 <pre><code>Before any steps:
+
 11111
 19991
 19191
@@ -45,6 +46,7 @@ After step 2:
 <p>An octopus is <em>highlighted</em> when it flashed during the given step.</p>
 <p>Here is how the larger example above progresses:</p>
 <pre><code>Before any steps:
+
 5483143223
 2745854711
 5264556173
@@ -180,6 +182,7 @@ After step 10:
 <p>After step 10, there have been a total of <code>204</code> flashes. Fast forwarding, here is the same configuration every 10 steps:</p>
 
 <pre><code>After step 20:
+
 3936556452
 56865568<b>0</b>6
 449655569<b>0</b>
@@ -298,6 +301,7 @@ After step 100:
 <h2 id="part2">--- Part Two ---</h2><p>It seems like the individual flashes aren't bright enough to navigate. However, you might have a better option: the flashes seem to be <em>synchronizing</em>!</p>
 <p>In the example above, the first time all octopuses flash simultaneously is step <code><em>195</em></code>:</p>
 <pre><code>After step 193:
+
 5877777777
 8877777777
 7777777777
