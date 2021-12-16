@@ -8,8 +8,8 @@ Here is the link to [AOC 2021](https://adventofcode.com/2021/about).
 ___
 ___
 
-![](https://img.shields.io/badge/day%20📅-15-blue)
-![](https://img.shields.io/badge/stars%20⭐-30-yellow)
+![](https://img.shields.io/badge/day%20📅-16-blue)
+![](https://img.shields.io/badge/stars%20⭐-32-yellow)
 ### PROGRESS
 
 | Day | Name | Solution | Stars Earned |
@@ -29,7 +29,7 @@ ___
 | 13 | [Transparent Origami](https://adventofcode.com/2021/day/13) | [Day-13](Day-13) | ★★ |
 | 14 | [Extended Polymerization](https://adventofcode.com/2021/day/14) | [Day-14](Day-14) | ★★ |
 | 15 | [Chiton](https://adventofcode.com/2021/day/15) | [Day-15](Day-15) | ★★ |
-| 16 |  |  | ☆☆ |
+| 16 | [Packet Decoder](https://adventofcode.com/2021/day/16) | [Day-16](Day-16) | ★★ |
 | 17 |  |  | ☆☆ |
 | 18 |  |  | ☆☆ |
 | 19 |  |  | ☆☆ |
