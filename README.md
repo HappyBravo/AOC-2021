@@ -30,7 +30,7 @@ ___
 | 14 | [Extended Polymerization](https://adventofcode.com/2021/day/14) | [Day-14](Day-14) | ★★ |
 | 15 | [Chiton](https://adventofcode.com/2021/day/15) | [Day-15](Day-15) | ★★ |
 | 16 | [Packet Decoder](https://adventofcode.com/2021/day/16) | [Day-16](Day-16) | ★★ |
-| 17 |  |  | ☆☆ |
+| 17 | [Trick Shot](https://adventofcode.com/2021/day/17) | [Day-17](Day-17) | ★★ |
 | 18 |  |  | ☆☆ |
 | 19 |  |  | ☆☆ |
 | 20 |  |  | ☆☆ |
